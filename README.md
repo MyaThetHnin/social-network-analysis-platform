@@ -70,7 +70,6 @@ YouAnalyze is a web-based analytics platform developed by a five-member team to 
 ## Demo
 
 **Website:** *https://thunderous-dodol-5dc18c.netlify.app/*
-![Landing Page:](images/landing_page.png)
 
 ## Team
 
