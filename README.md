@@ -71,6 +71,8 @@ YouAnalyze is a web-based analytics platform developed by a five-member team to 
 
 **Website:** *https://thunderous-dodol-5dc18c.netlify.app/*
 
+**Demo Video:** *https://drive.google.com/file/d/1g4ESNjFFBOYkuFjGluZeeZ_O1MXk6Q83/view?usp=drive_link*
+
 ## Team
 
 This project was developed by a five-member team following the Agile Scrum methodology as a final year project.
