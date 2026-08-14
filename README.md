@@ -74,4 +74,4 @@ YouAnalyze is a web-based analytics platform developed by a five-member team to 
 
 ## Team
 
-This project was developed by a five-member team following the Agile Scrum methodology.
+This project was developed by a five-member team following the Agile Scrum methodology as a final year project.
